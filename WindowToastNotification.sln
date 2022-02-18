@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowToastNotification", "WindowToastNotification\WindowToastNotification.csproj", "{DAB89345-2EE6-4D88-B1DB-BB2F4CA3883E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastNotifications", "ToastNotifications\ToastNotifications.csproj", "{B06D4E1F-63D6-4482-A6B5-EEFDBA2B9A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB89345-2EE6-4D88-B1DB-BB2F4CA3883E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB89345-2EE6-4D88-B1DB-BB2F4CA3883E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB89345-2EE6-4D88-B1DB-BB2F4CA3883E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB89345-2EE6-4D88-B1DB-BB2F4CA3883E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06D4E1F-63D6-4482-A6B5-EEFDBA2B9A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06D4E1F-63D6-4482-A6B5-EEFDBA2B9A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06D4E1F-63D6-4482-A6B5-EEFDBA2B9A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06D4E1F-63D6-4482-A6B5-EEFDBA2B9A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F41540-F46A-47A3-B2FE-AC49DB531219}
+	EndGlobalSection
+EndGlobal
